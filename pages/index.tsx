@@ -1,4 +1,4 @@
-import { Box, Button, ButtonGroup, Flex, Progress } from '@chakra-ui/react'
+import { Box } from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
 import React from 'react'
 import Loader from '../src/loader/loader'
