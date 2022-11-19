@@ -5,6 +5,6 @@ import { Button, ButtonGroup } from '@chakra-ui/react'
 
 export default function Home() {
   return (
-    <Button colorScheme='blue' size="lg">Button</Button>
+    <Button colorScheme='blue' size="lg">Button 1</Button>
   )
 }
